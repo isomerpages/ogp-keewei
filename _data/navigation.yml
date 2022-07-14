@@ -4,7 +4,5 @@ links:
     url: /contact-us/
   - title: Content
     url: /permalink
-  - title: Menu Title
-    url: /permalink
   - title: Hello
     collection: hello
